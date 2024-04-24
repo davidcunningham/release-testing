@@ -1,5 +1,5 @@
 {
-    ".": "initial",
-    "apps/service": "initial",
-    "libs/release-types": "initial"
+    ".": "0.1.0",
+    "apps/service": "0.1.0",
+    "libs/release-types": "0.1.0"
 }
