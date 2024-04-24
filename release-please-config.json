@@ -1,0 +1,13 @@
+{
+    "packages": {
+        ".": {
+            "release-type": "node"
+        },
+        "apps/service": {
+            "release-type": "node"
+        },
+        "libs/release-types": {
+            "release-type": "node"
+        }
+    }
+}
