@@ -1,10 +1,12 @@
 {
     "packages": {
         ".": {
-            "release-type": "node"
+            "release-type": "node",
+            "release-as": "2024.2.0"
         },
         "libs/release-types": {
-            "release-type": "node"
+            "release-type": "node",
+            "release-as": "0.0.1"
         }
     },
     "separate-pull-requests": true
