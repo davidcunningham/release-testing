@@ -6,5 +6,6 @@
         "libs/release-types": {
             "release-type": "node"
         }
-    }
+    },
+    "separate-pull-requests": true
 }
