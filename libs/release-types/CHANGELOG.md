@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/davidcunningham/release-testing/compare/release-types-v0.2.0...release-types-v0.2.1) (2024-04-25)
+
+
+### Bug Fixes
+
+* add output ([#32](https://github.com/davidcunningham/release-testing/issues/32)) ([bdf0eee](https://github.com/davidcunningham/release-testing/commit/bdf0eeeb650c92ac2ad5974fbf71fb2900a1dd19))
+
 ## [0.2.0](https://github.com/davidcunningham/release-testing/compare/release-types-v0.1.0...release-types-v0.2.0) (2024-04-25)
 
 
