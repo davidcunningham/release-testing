@@ -5,8 +5,7 @@
             "release-as": "2024.2.0"
         },
         "libs/release-types": {
-            "release-type": "node",
-            "release-as": "0.0.1"
+            "release-type": "node"
         }
     },
     "separate-pull-requests": true
