@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/davidcunningham/release-testing/compare/release-types-v0.1.0...release-types-v0.2.0) (2024-04-25)
+
+
+### Features
+
+* hello ([#30](https://github.com/davidcunningham/release-testing/issues/30)) ([2cf1d1a](https://github.com/davidcunningham/release-testing/commit/2cf1d1a923f8f8f9d304865598a5a9a8096532eb))
+
 ## [0.1.0](https://github.com/davidcunningham/release-testing/compare/release-types-v0.0.1...release-types-v0.1.0) (2024-04-25)
 
 
