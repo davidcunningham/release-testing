@@ -5,6 +5,14 @@
 
 ### Features
 
+* hello ([#30](https://github.com/davidcunningham/release-testing/issues/30)) ([2cf1d1a](https://github.com/davidcunningham/release-testing/commit/2cf1d1a923f8f8f9d304865598a5a9a8096532eb))
+* test ([#27](https://github.com/davidcunningham/release-testing/issues/27)) ([dcf1a11](https://github.com/davidcunningham/release-testing/commit/dcf1a11936cf6e09d489b9c51cb08bf82f0532a6))
+
+## [2024.2.0](https://github.com/davidcunningham/release-testing/compare/release-testing-v2024.2.0...release-testing-v2024.2.0) (2024-04-25)
+
+
+### Features
+
 * add log ([#5](https://github.com/davidcunningham/release-testing/issues/5)) ([59015e4](https://github.com/davidcunningham/release-testing/commit/59015e4d0602c1d8649fdb764749c1cd72e31c29))
 * add log to type ([#10](https://github.com/davidcunningham/release-testing/issues/10)) ([2954481](https://github.com/davidcunningham/release-testing/commit/2954481601ac9a789cefa90c4014dc5e43ec1189))
 * test ([#8](https://github.com/davidcunningham/release-testing/issues/8)) ([def3b81](https://github.com/davidcunningham/release-testing/commit/def3b81cf89f16892593c71f2a33d3d6c4f5d433))
