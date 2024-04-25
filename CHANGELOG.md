@@ -1,5 +1,12 @@
 # Changelog
 
+## [2024.3.1](https://github.com/davidcunningham/release-testing/compare/source-v2024.3.0...source-v2024.3.1) (2024-04-25)
+
+
+### Bug Fixes
+
+* test ([#16](https://github.com/davidcunningham/release-testing/issues/16)) ([3e5c81e](https://github.com/davidcunningham/release-testing/commit/3e5c81ec2ba0ac17e89b920d3d79b14a9a355f6a))
+
 ## [2024.3.0](https://github.com/davidcunningham/release-testing/compare/source-v2024.2.0...source-v2024.3.0) (2024-04-25)
 
 
